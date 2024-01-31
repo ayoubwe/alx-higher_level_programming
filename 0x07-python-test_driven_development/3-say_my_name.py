@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-"""
-This is my module of "3-say_my-name".
-This 3-say_my_name  module supplies one function, say_my_name.
-"""
-
+"""Defines a say_my_name function."""
 
 def say_my_name(first_name, last_name=""):
     """Say my name 
