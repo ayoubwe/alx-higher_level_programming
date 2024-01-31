@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-The 2-matrix_divided module supplies one function, matrix_divided(matrix, div).
+My module of  2-matrix_divided supplies one function, matrix_divided.
 """
 
 
