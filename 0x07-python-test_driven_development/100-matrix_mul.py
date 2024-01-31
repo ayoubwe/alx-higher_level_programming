@@ -1,16 +1,16 @@
 #!/usr/bin/python3
 """
-Module composed by a function that multiplies 2 matrices
+This module  multiplies 2 matrices
 """
 
 
 def matrix_mul(m_a, m_b):
-    """ Function that multiplies 2 matrices
+    """ This function multiplies 2 matrices
     Args:
         m_a: matrix a
         m_b: matrix b
     Returns:
-        result of the multiplication
+        the results
     Raises:
         TypeError: if m_a or m_b aren't a list
         TypeError: if m_a or m_b aren't a list of a lists
