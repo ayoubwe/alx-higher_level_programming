@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-My project module of 2-matrix_divided supplies one function, matrix_divided(matrix, div).
+this is my module the "2-matrix_divided".
+this module supplies one function, matrix_divided(matrix, div).
 """
 
 
